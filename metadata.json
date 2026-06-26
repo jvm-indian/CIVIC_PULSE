@@ -1,0 +1,6 @@
+{
+  "name": "CivicPulse",
+  "description": "CivicPulse: The Neighborhood's Immune System. AI-powered predictive civic infrastructure analysis and active agentic community engagement.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
